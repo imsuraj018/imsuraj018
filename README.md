@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Suraj Katkar</h1>
 
 <h3 align="center">
-AI Engineer | Machine Learing | Optimization Theory | 
+AI Engineer | Machine Learing | Optimization Theory | Database Management
 </h3>
 
 ---
 
 ## 🚀 Current Focus
 
-- Solving DSA daily
+- DSA
 - Server Deployment
 - CI/CD
 
